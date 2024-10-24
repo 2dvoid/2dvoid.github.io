@@ -198,7 +198,7 @@ function replaceUrls(text) {
 
 Typer.speed=3;
 
-Typer.file="void.txt";
+Typer.file="index.txt";
 
 Typer.init();
 

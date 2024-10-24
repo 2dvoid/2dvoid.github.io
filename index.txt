@@ -1,0 +1,5 @@
+<span id="a">emon@nullvoid</span>:<span id="b">~</span><span id="c">$</span> cd info/
+<span id="a">emon@nullvoid</span>:<span id="b">~</span><span id="c">$</span> cat info.txt<br/><br/>
+<span id="k">Hello Friend!!</span><br/>
+<p>Hello friend? That's lame. Maybe I should give you a name. But that's a slippery slope, you're only in my head, we have to remember that. Shit, this actually happened, I'm talking to an imaginary person.</p>
+<span id="a">emon@nullvoid</span>:<span id="b">~</span><span id="c">$</span> exit 
